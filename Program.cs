@@ -17,6 +17,12 @@ class Program
           sans consommer de flèche.
         - Afficher le bilan final de la chasse.
         */
-
+        int fleche = 5;
+        int reussite = 0;
+        string solution = "touche";
+        do
+        {
+            
+        }while
     }
 }
