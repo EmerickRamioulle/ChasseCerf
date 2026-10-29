@@ -17,5 +17,6 @@ class Program
           sans consommer de flèche.
         - Afficher le bilan final de la chasse.
         */
+
     }
 }
